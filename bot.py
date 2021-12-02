@@ -274,7 +274,7 @@ def main():
     # 1773001800:AAHtAX5DUReFenUYgwpteZCfn4S66z-KFiY
 
     # updater = Updater(os.environ['TELEGRAM_TOKEN'], use_context=True)
-    updater = Updater('1870824094:AAGGFWsOrtzxCfgt6vIhBvcxWhcST2n5g14', use_context=True)
+    updater = Updater('5080909700:AAEXuL0JKqC18G1t1OWm4kqVbBDDJ1m25Ec', use_context=True)
 
     # Get the dispatcher to register handlers
     dp = updater.dispatcher
