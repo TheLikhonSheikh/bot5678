@@ -18,11 +18,11 @@ logger = logging.getLogger(__name__)
 
 limit_time = 0
 
-# add_1 = "😎🌜 <a href='https://t.me/dopemoonofficial'> Dopemoon </a>❗️Not a SafeMoon Fork ❕No LP tokens to Dev wallet 🔥 Ownership Renounced🐰<a href='https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xC03ff4EB23a8D59978C7fCd7720f952611ddd6E4'> PancakeSwap </a> | 🌳 <a href='https://linktr.ee/dopemoon'> LinkTree </a>"
-# add_2 = "⛔️👉This might be your last chance⚠️ to get <a href='https://bit.ly/2Qhucea'> $BTCR </a> 🎉 this cheap‼️Tax: | 4% Distributed 💸 | 3% Burn🔥| No Team Tokens ✅ | <a href='https://bit.ly/3y4HMTc'> Website. </a> Come have a 🐳 of a time 🥳"
-# add_3 = "👩 <a href='https://www.milf.finance/'> #MILF </a> is the most exciting new launch,  <a href='https://www.coingecko.com/en/coins/milf-finance'> Coingecko </a>💆‍♀, influencers 🤳, liq 🔐, ownership renounced 🙅‍♀, dev dox. <a href='https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xCB7A1Dc3a40FB64eA57D297Cef439A103fc11E66'> BUY </a> 🏃🏼 ♀ <a href='https://t.me/milffinance_official'> TG </a> 🏃🏾‍♀BEWARE COPYCATS 🙎‍♀🤦‍♀"
-# add_4 = "<a href='https://t.me/x2pofficial'> X2POfficial </a> A New Revolution 💎 • LP Locked 🔒 • 6000 hodlers • 10 % to hodlers • Apple Giveaway ✅ • <a href='https://xenonpay.org/'> XenonPay.org </a>"
-# add_5 = " 👑<a href='https://bit.ly/3tTtEch'>United Emirate Decentralized Coin</a>👑 Supply Only 20M! Price=$0.01 💴 Make x100 🚀 Buy On <a href='https://bit.ly/3omXLHX'> PancakeSwap </a>"
+# add_1 = "😎🌜 <a href='https://t.me/dopemoonofficial'> Dopemoon </a>❗️Not a SafeMoon Foলিখনrk ❕No LP tokens to Dev wallet 🔥 Ownership Renounced🐰<a href='https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xC03ff4EB23a8D59978C7fCd7720f952611ddd6E4'> PancakeSwap </a> | 🌳 <a href='https://linktr.ee/dopemoon'> LinkTree </a>"
+# add_2 = "⛔️👉This might be your last chance⚠️ লিখন লিখনto get <a href='https://bit.ly/2Qhucea'> $BTCR </a> 🎉 this cheap‼️Tax: | 4% Distributed 💸 | 3% Burn🔥| No Team Tokens ✅ | <a href='https://bit.ly/3y4HMTc'> Website. </a> Come have a 🐳 of a time 🥳"
+# add_3 = "👩 <a href='https://www.milf.finance/'> #লিখন</a> is the most exciting new launch,  <a href='https://www.coingecko.com/en/coins/milf-finance'> Coingecko </a>💆‍♀, influencers 🤳, liq 🔐, ownership renounced 🙅‍♀, dev dox. <a href='https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xCB7A1Dc3a40FB64eA57D297Cef439A103fc11E66'> BUY </a> 🏃🏼 ♀ <a href='https://t.me/milffinance_official'> TG </a> 🏃🏾‍♀BEWARE COPYCATS 🙎‍♀🤦‍♀"
+# add_4 = "<a href='https://t.me/x2pofficial'> X2POfficialলিখন </a> A New Revolution 💎 • LP Locked 🔒 • 6000 hodlers • 10 % to hodlers • Apple Giveaway ✅ • <a href='https://xenonpay.org/'> XenonPay.org </a>"
+# add_5 = " 👑<a href='https://bit.ly/3tTtEch'>United Emirate Decentraliলিখনzed Coin</a>👑 Supply Only 20M! Price=$0.01 💴 Make x100 🚀 Buy On <a href='https://bit.ly/3omXLHX'> PancakeSwap </a>"
 
 current_ad_idx = 0
 
